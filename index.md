@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to Coco-pomelo'blog ! "Coco" means coconut, "Coco-pomelo" means coconut and pomelo,which are my own and my girlfriend's nicknames respectively.
+  Welcome to Coco-pomelo's blog ! "Coco" means coconut, "Coco-pomelo" means coconut and pomelo,which are my own and my girlfriend's nicknames respectively.
 This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
 </p>
 
