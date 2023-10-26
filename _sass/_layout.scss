@@ -4,7 +4,7 @@
 .site-header {
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-
+  background-color: #83D6E4 ;
   padding-top: 10px;
   padding-bottom: 10px;
 
@@ -18,18 +18,19 @@
 }
 
 .site-title {
-  font-size: 26px;
-  line-height: 56px;
+  font-size: 26px;   //下方联系方式的面积
+  line-height: 56px; //菜单栏的底线
   letter-spacing: -1px;
   float: left;
 
+  
   img {
-    height: 28px;
+    height: 35px;
   }
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $grey-color-dark; //$grey-color-dark
   }
 }
 
@@ -75,6 +76,7 @@
 
       background: #83D6E4 url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;
       background-size: 26px 26px;
+      
     }
 
     .menu {
@@ -83,6 +85,8 @@
       background-color: #83D6E4;
       min-width: 10em;
       padding-bottom: 5px;
+      
+      
     }
 
     .page-link {
