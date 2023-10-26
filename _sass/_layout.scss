@@ -16,9 +16,6 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
-.site-meta {
-  background: $blue;
-}
 
 .site-title {
   font-size: 26px;
@@ -76,14 +73,14 @@
       padding-top: 4px;
       text-align: center;
 
-      background: #ffffff url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;
+      background: #83D6E4 url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;
       background-size: 26px 26px;
     }
 
     .menu {
       clear: both;
       display: none;
-      background-color: #ffffff;
+      background-color: #83D6E4;
       min-width: 10em;
       padding-bottom: 5px;
     }
